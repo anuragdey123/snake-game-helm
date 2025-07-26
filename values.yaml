@@ -4,7 +4,6 @@ image:
   repository: snake-game
   tag: latest
   pullPolicy: IfNotPresent
-
  
 service:
   type: ClusterIP
